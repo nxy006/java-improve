@@ -2,15 +2,15 @@
 
 * [阅读指南](README.md)
 
-## 对象导论
+## 对象导论 <a id="preface"></a>
 
-* [面向对象语言](dui-xiang-dao-lun/oop.md)
-* [Java 基本理论](dui-xiang-dao-lun/java-ji-ben-li-lun.md)
+* [面向对象语言](preface/oop.md)
+* [Java 基本理论](preface/basic-theory.md)
 
-## 基本用法
+## 基本用法 <a id="basic"></a>
 
-* [控制执行流程](ji-ben-yong-fa/ji-ben-yu-fa.md)
-* [基本运算](ji-ben-yong-fa/ji-ben-yun-suan.md)
+* [控制执行流程](basic/ji-ben-yu-fa.md)
+* [基本运算](basic/ji-ben-yun-suan.md)
 
 ## 类与对象
 
@@ -24,18 +24,18 @@
 * [枚举](gao-ji-zhi-shi/mei-ju.md)
 * [注解](gao-ji-zhi-shi/zhu-jie.md)
 
-## Java 重点类库
+## Java 重点类库 <a id="important-class-libraries"></a>
 
-* [字符串](java-zhong-dian-lei-ku/zi-fu-chuan.md)
-* [容器](java-zhong-dian-lei-ku/rong-qi/README.md)
-  * [Collection](java-zhong-dian-lei-ku/rong-qi/collection.md)
-  * [Map](java-zhong-dian-lei-ku/rong-qi/map.md)
+* [字符串](important-class-libraries/string.md)
+* [容器](important-class-libraries/rong-qi/README.md)
+  * [Collection](important-class-libraries/rong-qi/collection.md)
+  * [Map](important-class-libraries/rong-qi/map.md)
 
-## 其他知识
+## 其他知识 <a id="other-knowledge"></a>
 
-* [与其他语言的对比](qi-ta-zhi-shi/yu-qi-ta-yu-yan-de-dui-bi.md)
-* [并发简述](qi-ta-zhi-shi/bing-fa-jian-shu.md)
-* [I/O 系统](qi-ta-zhi-shi/io-xi-tong.md)
-* [Socket](qi-ta-zhi-shi/socket.md)
-* [图形化](qi-ta-zhi-shi/tu-xing-hua.md)
+* [与其他语言的对比](other-knowledge/compare-with-other-language.md)
+* [并发简述](other-knowledge/bing-fa-jian-shu.md)
+* [I/O 系统](other-knowledge/io-system.md)
+* [Socket](other-knowledge/socket.md)
+* [图形化](other-knowledge/gui.md)
 
