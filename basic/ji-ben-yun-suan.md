@@ -67,3 +67,11 @@ Q1-如果 `int x=20, y=5`，则语句 `System.out.println(x+y +""+(x+y)+y);` 的
 
 
 
+浮点运算
+
+Java 中，使用 float 和 double 表示浮点数，注意它们不能用于高精度运算，高精度运算需要使用 Big
+
+{% hint style="success" %}
+参考：0.1 + 0.2 != 0.3，想知道各个语言的浮点运算的逻辑的可以查看：[https://0.30000000000000004.com/](https://0.30000000000000004.com/)
+{% endhint %}
+
