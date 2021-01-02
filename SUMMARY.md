@@ -9,20 +9,21 @@
 
 ## 基本用法 <a id="basic"></a>
 
-* [控制执行流程](basic/ji-ben-yu-fa.md)
 * [基本运算](basic/ji-ben-yun-suan.md)
+* [控制执行流程](basic/ji-ben-yu-fa.md)
 
 ## 类与对象
 
 * [类与对象基础](lei-yu-dui-xiang/class-and-object.md)
 * [初始化与清理](lei-yu-dui-xiang/iinitialize-and-finalize.md)
+* [多态](lei-yu-dui-xiang/duo-tai.md)
+* [抽象类和接口](lei-yu-dui-xiang/chou-xiang-lei-he-jie-kou.md)
 
 ## 高级知识
 
-* [多态](gao-ji-zhi-shi/duo-tai.md)
-* [抽象类和接口](gao-ji-zhi-shi/chou-xiang-lei-he-jie-kou.md)
 * [枚举](gao-ji-zhi-shi/mei-ju.md)
 * [注解](gao-ji-zhi-shi/zhu-jie.md)
+* [泛型](gao-ji-zhi-shi/fan-xing.md)
 
 ## Java 重点类库 <a id="important-class-libraries"></a>
 
