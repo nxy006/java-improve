@@ -36,10 +36,14 @@ else
 ```
 
 {% hint style="info" %}
-**短路求值：**详见 _基本运算 - 逻辑操作符_ 章节。
+**短路求值：**详见 _逻辑操作符_ 章节。
+
+{% page-ref page="ji-ben-yun-suan.md" %}
 {% endhint %}
 
-#### 
+
+
+
 
 ### switch 语句
 
