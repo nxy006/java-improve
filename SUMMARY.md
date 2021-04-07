@@ -25,12 +25,13 @@
 * [注解](gao-ji-zhi-shi/zhu-jie.md)
 * [泛型](gao-ji-zhi-shi/fan-xing.md)
 
-## Java 重点类库 <a id="important-class-libraries"></a>
+## JDK 类库 <a id="jdk-libraries"></a>
 
-* [字符串](important-class-libraries/string.md)
-* [容器](important-class-libraries/rong-qi/README.md)
-  * [Collection](important-class-libraries/rong-qi/collection.md)
-  * [Map](important-class-libraries/rong-qi/map.md)
+* [Object](jdk-libraries/object.md)
+* [字符串](jdk-libraries/string.md)
+* [容器](jdk-libraries/rong-qi/README.md)
+  * [Collection](jdk-libraries/rong-qi/collection.md)
+  * [Map](jdk-libraries/rong-qi/map.md)
 
 ## 其他知识 <a id="other-knowledge"></a>
 
