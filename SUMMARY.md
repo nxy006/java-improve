@@ -41,3 +41,11 @@
 * [Socket](other-knowledge/socket.md)
 * [图形化](other-knowledge/gui.md)
 
+## JDK 8
+
+* [Lambda 表达式](jdk-8/lambda-biao-da-shi.md)
+* [使用流进行函数式编程](jdk-8/shi-yong-liu-jin-hang-han-shu-shi-bian-cheng.md)
+* [Optional 和新的日期时间 API](jdk-8/optional-he-xin-de-ri-qi-shi-jian-api.md)
+* [Async API \(Future\)](jdk-8/async-api-future.md)
+* [反应式编程](jdk-8/fan-ying-shi-bian-cheng.md)
+
