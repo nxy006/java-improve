@@ -19,11 +19,11 @@
 * [多态](lei-yu-dui-xiang/duo-tai.md)
 * [抽象类和接口](lei-yu-dui-xiang/chou-xiang-lei-he-jie-kou.md)
 
-## 高级知识
+## 高级知识 <a id="advanced"></a>
 
-* [枚举](gao-ji-zhi-shi/mei-ju.md)
-* [注解](gao-ji-zhi-shi/zhu-jie.md)
-* [泛型](gao-ji-zhi-shi/fan-xing.md)
+* [枚举](advanced/mei-ju.md)
+* [注解](advanced/zhu-jie.md)
+* [泛型](advanced/generics.md)
 
 ## JDK 类库 <a id="jdk-libraries"></a>
 
