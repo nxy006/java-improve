@@ -78,7 +78,8 @@ equals 方法实现了等价关系（equivalence relation），其属性如下�
 {% hint style="success" %}
 **违反通用约定时会发生什么？** 
 
-可参考：《Effective Java \(Third Edition\)》第10条：覆盖 equals 时请遵守通用约定
+1. [如何在Java中避免equals方法的隐藏陷阱 \| 酷 壳 - CoolShell ](https://coolshell.cn/articles/1051.html)
+2. 《Effective Java \(Third Edition\)》第10条：覆盖 equals 时请遵守通用约定
 {% endhint %}
 
 
